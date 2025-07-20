@@ -17,4 +17,4 @@ The trained YOLOv8 model demonstrates high accuracy in identifying accident even
 
 See a quick demonstration of the detection:
 
-![Accident Detection](outputs/output1.mp4)
+![Accident Detection]([./outputs/output1.gif])
